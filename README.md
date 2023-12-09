@@ -17,7 +17,7 @@ This repo is to test if you can do verified commits and pull requests. You can l
 Next is a small competition.
 
 1. Learning only:
-    - Fork this repository
+    - Fork this repository.
     - Clone your forked repository
     - Write some code
     - Commit your changes
